@@ -10,4 +10,4 @@ $min=abs(floor($diff%3600/60));
 $sec=abs($diff%60);
 ?>
 
-<div>距離我的生日 2023/09/13還有<?=$days?>天 <?=$hr?>:<?=$min?>:<?=$sec?></div>
+<div>距離我的生日 09/13還有<?=$days?>天 <?=$hr?>:<?=$min?>:<?=$sec?></div>
