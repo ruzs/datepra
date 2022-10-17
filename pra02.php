@@ -11,3 +11,5 @@ $sec=abs($diff%60);
 ?>
 
 <div>距離我的生日 09/13還有<?=$days?>天 <?=$hr?>:<?=$min?>:<?=$sec?></div>
+
+<a href="index.php">首頁</a>
