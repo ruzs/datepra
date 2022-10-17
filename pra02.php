@@ -2,7 +2,7 @@
 <?php
 $b='2023-09-13';
 $now=strtotime("now");
-$birth=strtotime($b."23:59:59");
+$birth=strtotime($b);
 $diff=$birth-$now;
 $days=abs(floor($diff/86400));
 $hr=abs(floor($diff%86400/3600));
