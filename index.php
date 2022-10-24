@@ -28,7 +28,7 @@
     <li><a href="pra01.php">練習一:計算日期間隔</a></li>
     <li><a href="pra02.php">練習二:計算自己的生日還有幾天</a></li>
     <li><a href="pra03.php">練習三:date日期函式的參數練習</a></li>
-    <li><a href="#">練習四:</a></li>
+    <li><a href="pra04.php">練習四:利用迴圈來計算連續五個周一的日期</a></li>
   </ul>
 </body>
 </html>
